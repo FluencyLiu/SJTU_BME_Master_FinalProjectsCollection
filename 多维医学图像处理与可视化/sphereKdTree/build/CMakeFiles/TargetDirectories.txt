@@ -1,3 +1,0 @@
-E:/Code/vtkHomework/sphereKdTree/build/CMakeFiles/sphereKdTree.dir
-E:/Code/vtkHomework/sphereKdTree/build/CMakeFiles/ALL_BUILD.dir
-E:/Code/vtkHomework/sphereKdTree/build/CMakeFiles/ZERO_CHECK.dir
